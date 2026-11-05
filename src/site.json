@@ -8,5 +8,6 @@
   "url": "https://bicycle.guidehollow.com/",
   "launchReady": true,
   "adsReady": false,
-  "pageTitle": "자전거 관리 사용·관리 가이드 | GuideHollow"
+  "pageTitle": "자전거 관리 사용·관리 가이드 | GuideHollow",
+  "coupangEnabled": true
 }
